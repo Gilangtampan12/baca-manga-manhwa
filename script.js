@@ -52,7 +52,20 @@ const comics = [
         'manga22.jpg',
         'manga23.jpg',
         'manga24.jpg',
-        'manga25.jpg'
+        'manga25.jpg',
+        'manga26.jpg',
+        'manga27.jpg',
+        'manga28.jpg',
+        'manga29.jpg',
+        'manga30.jpg',
+        'manga31.jpg',
+        'manga32.jpg',
+        'manga33.jpg',
+        'manga34.jpg',
+        'manga35.jpg',
+        'manga36.jpg',
+        'manga37.jpg',
+        'manga38.jpg'
     ]
 },
             {
