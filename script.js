@@ -26,9 +26,35 @@ const comics = [
         desc: 'Deskripsi singkat tentang Manga 1.',
         chapters: [
             {
-                name: 'Chapter 1',
-                pages: ['manga1.jpg', 'manga2.jpg', 'manga3.jpg', 'manga4.jpg', 'manga5.jpg', 'manga6.jpg', 'manga7.jpg', 'manga8.jpg', 'manga9.jpg', 'manga10.jpg']
-            },
+    name: 'Chapter 1',
+    pages: [
+        'manga1.jpg',
+        'manga2.jpg',
+        'manga3.jpg',
+        'manga4.jpg',
+        'manga5.jpg',
+        'manga6.jpg',
+        'manga7.jpg',
+        'manga8.jpg',
+        'manga9.jpg',
+        'manga10.jpg',
+        'manga11.jpg',
+        'manga12.jpg',
+        'manga13.jpg',
+        'manga14.jpg',
+        'manga15.jpg',
+        'manga16.jpg',
+        'manga17.jpg',
+        'manga18.jpg',
+        'manga19.jpg',
+        'manga20.jpg',
+        'manga21.jpg',
+        'manga22.jpg',
+        'manga23.jpg',
+        'manga24.jpg',
+        'manga25.jpg'
+    ]
+},
             {
                 name: 'Chapter 2',
                 pages: ['manga1-3.jpg', 'manga1-4.jpg']
