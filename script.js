@@ -69,9 +69,50 @@ const comics = [
     ]
 },
             {
-                name: 'Chapter 2',
-                pages: ['manga1-3.jpg', 'manga1-4.jpg']
-            }
+    name: 'Chapter 2',
+    pages: [
+        'manga1-1.jpg',
+        'manga1-2.jpg',
+        'manga1-3.jpg',
+        'manga1-4.jpg',
+        'manga1-5.jpg',
+        'manga1-6.jpg',
+        'manga1-7.jpg',
+        'manga1-8.jpg',
+        'manga1-9.jpg',
+        'manga1-10.jpg',
+        'manga1-11.jpg',
+        'manga1-12.jpg',
+        'manga1-13.jpg',
+        'manga1-14.jpg',
+        'manga1-15.jpg',
+        'manga1-16.jpg',
+        'manga1-17.jpg',
+        'manga1-18.jpg',
+        'manga1-19.jpg',
+        'manga1-20.jpg',
+        'manga1-21.jpg',
+        'manga1-22.jpg',
+        'manga1-23.jpg',
+        'manga1-24.jpg',
+        'manga1-25.jpg',
+        'manga1-26.jpg',
+        'manga1-27.jpg',
+        'manga1-28.jpg',
+        'manga1-29.jpg',
+        'manga1-30.jpg',
+        'manga1-31.jpg',
+        'manga1-32.jpg',
+        'manga1-33.jpg',
+        'manga1-34.jpg',
+        'manga1-35.jpg',
+        'manga1-36.jpg',
+        'manga1-37.jpg',
+        'manga1-38.jpg',
+        'manga1-39.jpg',
+        'manga1-40.jpg'
+    ]
+}
         ]
     },
     {
